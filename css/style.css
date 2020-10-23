@@ -31,7 +31,11 @@ body {
 
 .person__description {
     font-size: 16px;
-    line-height: 22px;
+    line-height: 18px;
+}
+
+.person__description--last {
+    margin-bottom: 0;
 }
 
 .person__header {
@@ -64,6 +68,3 @@ body {
     font-weight: normal;
 }
 
-.person__description--last {
-    margin-bottom: 0;
-}
