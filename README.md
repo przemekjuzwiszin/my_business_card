@@ -4,6 +4,8 @@
 
 ![business card mobile screenshot](github/gh_mobile.png)
 
+My business card 📇
+
 Please visit my: [business card](https://przemekjuzwiszin.github.io/my_business_card/)
 
 
@@ -15,10 +17,8 @@ Please visit my: [business card](https://przemekjuzwiszin.github.io/my_business_
 - Trello (KANBAN method)
 - Windows console
 - BEM
-- RWA
 - Live server
 - CSS: flex
-
 
 ### I relied on three languages: 🌎
 
