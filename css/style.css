@@ -72,6 +72,9 @@ body {
 }
 
 @media (max-width: 550px) {
+    .card {
+        min-width: 290px;
+    }
     .person {
         flex-direction: column;
     }
