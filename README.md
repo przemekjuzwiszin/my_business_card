@@ -9,7 +9,7 @@ Please visit my: [business card](https://przemekjuzwiszin.github.io/my_business_
 
 ## Tools & technologies I've used: 🧰
 
- -Figma
+- Figma
 - Visual Studio Code
 - Git
 - Trello (KANBAN method)
@@ -17,10 +17,19 @@ Please visit my: [business card](https://przemekjuzwiszin.github.io/my_business_
 - BEM
 - RWA
 - Live server
+- CSS: flex
 
 
 ### I relied on three languages: 🌎
 
-- HTML.
-- CSS.
-- Markdown.
+- HTML
+- CSS
+- Markdown
+
+#### What I learned: ✂
+
+- Writing semantic HTML
+- Using @media queries
+- Using BEM for styling
+- Cutting the design
+- Writing a nice looking readme.md file
