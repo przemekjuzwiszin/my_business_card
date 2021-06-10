@@ -76,6 +76,7 @@ body {
         min-width: 290px;
     }
     .person {
+        align-items: center;
         flex-direction: column;
     }
 }  
