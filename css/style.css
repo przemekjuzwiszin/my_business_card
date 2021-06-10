@@ -79,4 +79,7 @@ body {
         align-items: center;
         flex-direction: column;
     }
+    .person__photo {
+        margin: 0 0 16px 0;
+    }
 }  
