@@ -1,85 +1,86 @@
 html {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-*, *::after, *::before {
-    box-sizing: inherit;
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
 }
 
 body {
-    align-items: center;
-    background-color: #2C2141;
-    display: flex;
-    font-family: Arial, Helvetica, sans-serif;
-    justify-content: center;
-    min-height: 100vh;
-    padding: 16px;
+  align-items: center;
+  background-color: #2c2141;
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 16px;
 }
 
 .card {
-    background-color: #F8F8F8;
-    border-radius: 16px;
-    max-width: 626px;
-    padding: 32px;
-    width: 100%;
+  background-color: #f8f8f8;
+  border-radius: 16px;
+  max-width: 626px;
+  padding: 32px;
+  width: 100%;
 }
 
 .person {
-    align-items: flex-start;
-    display: flex;
-    }
+  align-items: flex-start;
+  display: flex;
 }
 
 .person__description {
-    font-size: 16px;
-    line-height: 18px;
+  font-size: 16px;
+  line-height: 18px;
 }
 
 .person__description--last {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .person__header {
-    margin-bottom: 13px;
+  margin-bottom: 13px;
 }
 
 .person__link {
-    color: #E20613;
-    text-decoration: none;
+  color: #e20613;
+  text-decoration: none;
 }
 
 .person__name {
-    font-size: 36px;
-    font-weight: normal;
-    margin: 0;
+  font-size: 36px;
+  font-weight: normal;
+  margin: 0;
 }
 
 .person__photo {
-    height: 164px;
-    width: 148px;
-    margin-right: 33px;
+  height: 164px;
+  width: 148px;
+  margin-right: 33px;
 }
 
 .person__position {
-    color: #545454;
-    font-size: 18px;
-    font-style: italic;
+  color: #545454;
+  font-size: 18px;
+  font-style: italic;
 }
 
 .person__special {
-    color: #b95504;
-    font-weight: bold;
+  color: #b95504;
+  font-weight: bold;
 }
 
 @media (max-width: 550px) {
-    .card {
-        min-width: 290px;
-    }
-    .person {
-        align-items: center;
-        flex-direction: column;
-    }
-    .person__photo {
-        margin: 0 0 16px 0;
-    }
-}  
+  .card {
+    min-width: 290px;
+  }
+  .person {
+    align-items: center;
+    flex-direction: column;
+  }
+  .person__photo {
+    margin: 0 0 16px 0;
+  }
+}
